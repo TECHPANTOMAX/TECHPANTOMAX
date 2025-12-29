@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 <!-- Red Team Hacker Animation -->
 
 
-<!-- Red Team Hacker Animation -->
+<!-- Red Team Terminal -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/techpantomax/techpantomax/main/redteam-attack.svg"
-       alt="Red Team Attack Simulation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF0000&size=18&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Recon+%E2%86%92+Exploit+%E2%86%92+Root;Breaking+Security+to+Build+It+Stronger"
+  />
 </div>
