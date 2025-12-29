@@ -1,8 +1,8 @@
-- 👋 Hi, I’m GYANENDRA 
-- 👀  Tech Enthusiast
--  🌱Cyber Security (Red Team) Aspirant
+<!--- 👋 Hi, I’m GYANENDRA -->
+<!--- 👀  Tech Enthusiast-->
+<!---  🌱Cyber Security (Red Team) Aspirant-->
 
-- 😄 Pronouns: @TECHPANTOMAX
+<!--- 😄 Pronouns: @TECHPANTOMAX-->
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
