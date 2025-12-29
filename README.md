@@ -62,11 +62,11 @@ You can click the Preview link to take a look at your changes.
 ## ⚔️ Who Am I?
 
 ```bash
-┌─[techpantomax@redteam]─[~]
+┌─[GYANENDRA@TECHPANTOMAX]─[~]
 └──╼ $ whoami
 
-• Red Team Aspirant
-• CTF Player (TryHackMe / Labs)
+• Cyber Security Aspirant
+• CTF Player (TryHackMe / HackTheBox)
 • Web + Network Attacks
-• Learning Malware & Exploitation
+• Malware & Exploitation
 • Mindset: Break → Understand → Secure
