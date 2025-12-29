@@ -16,8 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Red Team Attack Path Animation -->
 <!-- Red Team Hacker Animation -->
+
+
+<!-- Red Team Hacker Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/techpantomax/techpantomax/main/redteam-attack.svg"
        alt="Red Team Attack Simulation"/>
 </div>
-
