@@ -13,3 +13,9 @@
 TECHPANTOMAX/TECHPANTOMAX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- Red Team Attack Path Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+       alt="Red Team Snake Animation" />
+</div>
