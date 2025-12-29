@@ -65,7 +65,10 @@ You can click the Preview link to take a look at your changes.
 ┌─[GYANENDRA@TECHPANTOMAX]─[~]
 └──╼ $ whoami
 
-• Cyber Security Aspirant
+• I’m GYANENDRA
+• Tech Enthusiast
+• Cyber Security (Red Team) Aspirant
+
 • CTF Player (TryHackMe / HackTheBox)
 • Bug Hunter
 • Web + Network Attacks
