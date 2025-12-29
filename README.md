@@ -1,6 +1,6 @@
-- 👋 Hi, I’m GYANENDRA
-- 👀 I’m interested in HACKING and CODING
-- 🌱 I’m currently  1st year Cyber Security student
+- 👋 Hi, I’m GYANENDRA 
+- 👀  Tech Enthusiast
+-  🌱Cyber Security (Red Team) Aspirant
 
 - 😄 Pronouns: @TECHPANTOMAX
 <!---
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- ===================== -->
-<!-- TECHPANTOMAX RED TEAM -->
+<!--     TECHPANTOMAX      -->
 <!-- ===================== -->
 
 <h1 align="center">
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🩸 Red Team Attack Simulation
+<!-- ## 🩸 Red Team Attack Simulation -->
 <!-- Red Team Terminal -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF0000&size=18&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Recon+%E2%86%92+Exploit+%E2%86%92+Root;Breaking+Security+to+Build+It+Stronger"
@@ -67,6 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 • Cyber Security Aspirant
 • CTF Player (TryHackMe / HackTheBox)
+• Bug Hunter
 • Web + Network Attacks
 • Malware & Exploitation
 • Mindset: Break → Understand → Secure
